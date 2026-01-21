@@ -1,5 +1,4 @@
-# SLCS3_exam
-This repository contains implementations and experimental results for different optimization and constraint programming models, along with scripts to generate and analyze performance graphs.
+# Solving the N-queens Problem: Constraint Programming, QUBO and Local Search
 
 ## Repository Structure
 
